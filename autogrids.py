@@ -2,7 +2,7 @@
 
 #Didn't have to subclass this, but did just for example
 
-from Mine.mine import MineField, stdout
+from minedetector import MineField, stdout
 from random import randrange as rr
 
 class AutoGrid(MineField):
