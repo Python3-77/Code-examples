@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 from unittest import TestCase as TC, main as MM
-from Mine.randgrid import MineField as MF, AutoGrid
+from autogrids import MineField as MF, AutoGrid
 
 class Grids(TC):
 
