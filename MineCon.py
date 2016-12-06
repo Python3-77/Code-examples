@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from minedetect import AutoGrid,stdout
+from autogrids import AutoGrid,stdout
 
 def process(cont):
 
