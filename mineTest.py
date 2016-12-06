@@ -36,7 +36,7 @@ class Grids(TC):
                  self.n.make_grid()
                  self.n.add_random()
                  self.n.conf_grid()                
-                 self.n.show(self.n.grid)#passes if it runs through methods without error
+                 self.n.show(self.n.grid)#passes if it runs through methods without error, and will print grid to screen
                         
             def test_Prep(self):
                     '''Tests the method that prepares grid for integers'''
@@ -48,7 +48,7 @@ class Grids(TC):
                     '''Tests the methods that proccess the grid. '''
                 
                 self.m.scan()#4 functions called, one repeated  
-                #Grids X Y Z Processed
+                #Grids X Y Z Processed and result printed to screen
                 
              
             def test_XScan_grid(self):
