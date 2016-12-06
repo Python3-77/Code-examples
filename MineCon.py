@@ -73,7 +73,7 @@ def bugs():
 def test():#import and run test
 
             from unittest import TextTestRunner, makeSuite
-            from Mine.mine_test import Grids
+            from mineTest import Grids
           
             mine_detector = TextTestRunner()
             r=result = mine_detector.run(makeSuite(Grids))
