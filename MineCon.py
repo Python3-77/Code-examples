@@ -104,7 +104,7 @@ if __name__ == '__main__' :
 \t 2. Debug 2 : Grid Manipulation and Index Locations
 \t 3. Test
     ''')
-    test()
+    
     rules()
     
     col = 0
