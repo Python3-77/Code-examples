@@ -472,7 +472,8 @@ class MineField (object):
             re_orderxz()
             Zscan(gz)
             
-            self.show(gz)
+            if self.debug != 3:
+                self.show(gz)
             
 # uncomment  following lines on Windows CMD, not sure if CMD will close after execution
 
