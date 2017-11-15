@@ -2,7 +2,7 @@
 MineSweeperTheory - MineCon.py
 ==============================
 
-This concept is built on Microsofts minesweeper game.
+This concept is built on Microsofts minesweeper game created by Curtis Johnson.
 Create a random grid consisting of '0's for blank spaces and '*'s for mines.
 The program will replace the 0s with the number of mines around them.
 
