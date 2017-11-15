@@ -1,5 +1,5 @@
 ==============================
-MineSweeperTheory - mineCon.py
+MineSweeperTheory - MineCon.py
 ==============================
 
 This concept is built on Microsofts minesweeper game.
